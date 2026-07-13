@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://profile-counter.glitch.me/fawwaznasuha12-afk/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=fawwaznasuha12-afk&color=blue" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fawwaznasuha12-afk&theme=radical&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fawwaznasuha12-afk&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -56,8 +56,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fawwaznasuha12-afk&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawwaznasuha12-afk&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fawwaznasuha12-afk&show_icons=true&theme=radical&cache_seconds=3600" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawwaznasuha12-afk&layout=compact&theme=radical&cache_seconds=3600" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
@@ -80,16 +80,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fawwaznasuha12-afk&theme=react-dark" alt="Activity Graph" />
-</p>
-
----
-
-### ☕ Support Me
-
-<p align="left">
-  <a href="https://www.buymeacoffee.com/fawwaznasuha">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
 </p>
 
 ---
