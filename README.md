@@ -48,7 +48,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fawwaznasuha12-afk&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fawwaznasuha12-afk&theme=darkhub&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -56,12 +56,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fawwaznasuha12-afk&show_icons=true&theme=radical&cache_seconds=3600" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawwaznasuha12-afk&layout=compact&theme=radical&cache_seconds=3600" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fawwaznasuha12-afk&show_icons=true&theme=default" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawwaznasuha12-afk&layout=compact&theme=default" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fawwaznasuha12-afk&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fawwaznasuha12-afk&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
@@ -79,13 +79,25 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fawwaznasuha12-afk&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fawwaznasuha12-afk&theme=default" alt="Activity Graph" />
 </p>
 
 ---
 
+### 💰 Support Me
+
+<p align="left">
+  <a href="https://solana.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana"/>
+  </a>
+</p>
+
+**Solana Address:**
+GAtrNRgnmoyEQTYv18vdCo9VfGmHj3CKMT3tH6mt1diE
+---
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
 </p>
 
 ---
