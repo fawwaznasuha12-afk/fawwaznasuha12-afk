@@ -7,6 +7,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fawwaz-syahmi-nasuha-b37a1838a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white)](https://fawwaz-web.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fawwaznasuha12-afk)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/fawwaznasuha12)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/3973068)
+[![Google Developer](https://img.shields.io/badge/Google_Developer-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/profile/u/104000905250343790295)
 
 </div>
 
