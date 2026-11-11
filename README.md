@@ -1,85 +1,38 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/226747722?v=4" width="110" style="border-radius:50%" />
+# Fawwaz Syahmi Nasuha
 
-# Vortex22
-
-**Software Developer — Full-Stack, Security-Focused Systems, Blockchain**
+**Student · Learning offensive security — CTF, web security, reverse engineering**
 
 </div>
 
-<br>
+I'm a student in Indonesia learning offensive security from the ground up. Most of
+what I know comes from breaking things in labs and CTFs, not from courses.
 
-## About
+## What I actually spend time on
 
-I design, build, and ship software end to end — from web applications and CLI
-tools to games and security-oriented utilities — several of which are sold
-commercially on marketplaces such as Codester and CodeGrape. My work spans
-Python, PHP, C++, and JavaScript, with a particular interest in security
-engineering, systems programming, and blockchain applications.
+- **CTF** — web exploitation, reversing, and misc challenges
+- **Hands-on labs** — TryHackMe, HackTheBox, PortSwigger Academy
+- **Bug bounty** — reading real code paths and reporting only what I can prove
+- **Reverse engineering** — reading binaries with Ghidra, still early but I enjoy it
 
-<br>
+## Things I've built
 
-## Focus Areas
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [mariaDB-clone](https://github.com/fawwaznasuha12-afk/mariaDB-clone) | Educational SQL engine written from scratch — SQL parsing, transactions, persistence | C++17 |
+| [Chess_A1](https://github.com/fawwaznasuha12-afk/Chess_A1) | Chess AI trained with imitation learning and reinforcement learning | Python |
+| [salsaOS](https://github.com/fawwaznasuha12-afk/salsaOS) | Browser-based OS interface with a real-time music synthesizer, built for Hack Club Stardance | JavaScript, Web Audio |
+| [Ukbi](https://github.com/fawwaznasuha12-afk/Ukbi) | Self-hosted UKBI practice app — practice scores only, not official results | Next.js, Drizzle |
 
-- **Security engineering** — network security tooling, hardened authentication systems, privacy-focused infrastructure
-- **Blockchain development** — Solana smart contracts and full-stack dApps with wallet integration
-- **Systems & CLI tooling** — developer tools, automation scripts, custom Linux environments
-- **Commercial software** — production-ready products built for marketplace distribution
+## Comfortable with
 
-<br>
+Linux · Python · Web development (HTML/CSS/JS)
 
-## Selected Projects
+## A note on this profile
 
-**Incognito OS**
-A privacy-focused Linux distribution built on Debian debootstrap, integrating Tor
-and Kali security tools, optimized to run on 4GB of RAM. Includes a CI/CD pipeline
-for automated ISO builds via GitHub Actions.
-→ [github.com/vortex22123/Incognito](https://github.com/vortex22123/Incognito)
+I'm early in this. I'd rather show steady progress than claim titles I haven't
+earned yet. If you run CTFs, mentor beginners, or want to compare notes on a
+challenge, my inbox is open.
 
-**Solana Racing Game**
-A full-stack, blockchain-based racing game deployed on Solana devnet, with a
-Flask + SQLite backend handling deposits and withdrawals, and an HTML5 Canvas
-game frontend.
-
-**Pixel Art Tower Defense**
-A wave-based tower defense game with Phantom wallet integration and Anchor
-smart contracts, featuring a biome-driven progression system.
-
-**MariaDB CLI Simulator**
-A C++ implementation of a MariaDB-compatible SQL engine, supporting subqueries,
-window functions, stored procedures, triggers, views, and foreign key
-constraints — roughly 5,800 lines of code.
-→ [github.com/fawwaznasuha12-afk/mariaDB-clone](https://github.com/fawwaznasuha12-afk/mariaDB-clone)
-
-<br>
-
-## Tech Stack
-
-| Category | Tools |
-|---|---|
-| Languages | Python, PHP, C++, JavaScript, Bash |
-| Backend | Flask, SQLite |
-| Blockchain | Solana, Anchor |
-| Systems | Linux, Termux, Debian |
-| Tooling | Git, VS Code |
-
-<br>
-
-## Metrics
-
-<div align="center">
-
-![Metrics](./metrics.svg)
-
-![Isometric commit calendar](./metrics.isocalendar.svg)
-
-</div>
-
-<br>
-
-## Contact
-
-For commercial inquiries or collaboration, reach out via GitHub.
-
-<sub>Solana: `GAtrNRgnmoyEQTYv18vdCo9VfGmHj3CKMT3tH6mt1diE`</sub>
+[LinkedIn](https://www.linkedin.com/in/fawwaz-syahmi-nasuha-b37a1838a/)
